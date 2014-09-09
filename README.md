@@ -51,4 +51,5 @@ Based on an idea by [Jason Roberts](http://www.codusoperandi.com/) as discussed 
 
 ### License
 
-Copyright digedu, MIT License
+Copyright [digedu](http://www.digedu.com), MIT License
+
