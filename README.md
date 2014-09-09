@@ -13,7 +13,7 @@ Message: If you have any bullet points "reply all" as needed:
 - Write bullet points not paragraphs ;)
 - Format bullet points like this
 ```
-2) Team members reply (in bullet point form) and continue to reply as stuff comes up during the day. Due to using the convention of bullet points, discussion is kept pithy and on point.
+2) Team members "reply all" in bullet point form and continue to "reply all" as stuff comes up during the day. Due to using the convention of bullet points, discussion is kept pithy and on point.
 
 ## Installation
 
