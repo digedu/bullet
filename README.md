@@ -39,7 +39,7 @@ nano /etc/bullet/config.php
 php /etc/bullet/bullet.php debug
 ```
 
-4) Add the following line to cron (where 6 = the time of day you want to send the script):
+4) Add the following line to cron (where 6 = the time of day you want to send the bullet points email):
 
 ```
 0 6 * * * php /etc/bullet/bullet.php
