@@ -23,7 +23,8 @@ Message: If you have any bullet points "reply all" as needed:
 mkdir /etc/bullet
 cd /etc/bullet
 wget https://github.com/digedu/bullet/archive/master.zip
-gunzip master.zip
+apt-get install unzip
+unzip master.zip
 ```
 
 2) Edit the config script to add your company's teams and messaging:
