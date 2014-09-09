@@ -20,11 +20,11 @@ Message: If you have any bullet points "reply all" as needed:
 1) Download and install:
 
 ```
-mkdir /etc/bullet
-cd /etc/bullet
 wget https://github.com/digedu/bullet/archive/master.zip
 apt-get install unzip
 unzip master.zip
+mv bullet-master /etc/bullet
+rm master.zip
 ```
 
 2) Edit the config script to add your company's teams and messaging:
