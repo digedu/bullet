@@ -30,7 +30,7 @@ rm master.zip
 2) Edit the config script to add your company's teams and messaging:
 
 ```
-nano config.php
+nano /etc/bullet/config.php
 ```
 
 3) Test the script output by running it in debug mode:
